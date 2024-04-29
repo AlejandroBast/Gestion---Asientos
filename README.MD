@@ -1,4 +1,5 @@
-# Gestión de Asientos de Avión
+
+# Gestión de Asientos de Avión <img src="https://cdn3.emoji.gg/emojis/bongocat.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 270px; height: 50px; margin: 12px 0px; width: 70px;" alt="bongocat - Discord Emoji" jsname="kn3ccd">
 
 Este proyecto consiste en un sistema de gestión de asientos de avión, desarrollado en Python. El sistema permite asignar y desasignar pasajeros a asientos de diferentes clases y ubicaciones en un avión.
 
